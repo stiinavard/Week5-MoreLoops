@@ -1,0 +1,15 @@
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.exe
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.deps.json
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.json
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.dev.json
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.dll
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.dll
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Stiina\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.genruntimeconfig.cache
